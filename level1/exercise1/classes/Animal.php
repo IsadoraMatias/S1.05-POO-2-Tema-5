@@ -1,13 +1,13 @@
 <?php
 
-class Animal{
+abstract class Animal implements Sound
+{
     protected string $name;
-    protected string $sound;
 
-    public function __construct( string $name, string $sound)
+    public function __construct(string $name)
     {
         $this->name = $name;
-        $this->sound = $sound;
     }
+
+    abstract public function makeSound();
 }
-?>

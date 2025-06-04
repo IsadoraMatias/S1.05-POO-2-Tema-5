@@ -1,5 +1,5 @@
 <?php
-interface Sound{
- public function makeSound();
-} 
-?>
+interface Sound
+{
+    public function makeSound();
+}

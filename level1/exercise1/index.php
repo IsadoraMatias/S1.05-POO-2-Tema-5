@@ -1,12 +1,12 @@
 <?php
-include('interface/Sound.php');
-include('classes/Animal.php');
-include('classes/Cat.php');
-include('classes/Dog.php');
+require_once('interface/Sound.php');
+require_once('classes/Animal.php');
+require_once('classes/Cat.php');
+require_once('classes/Dog.php');
 
-$cat = new Cat("Fernandez", "Meow!");
-$cat-> makeSound();
+$cat = new Cat("Fernandez");
+$cat->makeSound();
 
-$dog = new Dog("Haru", "Bark,bark!");
-$dog -> makeSound();
+$dog = new Dog("Haru");
+$dog->makeSound();
 ?>
