@@ -1,6 +1,6 @@
 # S1.05-POO-2-Tema-5
 
-This repository contains PHP exercises focused on the OOP study using: Classes, Abstract Classes, Interface and Objetcts.
+This repository contains PHP exercises focused on studying Object-Oriented Programming (OOP), using Classes, Abstract Classes, Interfaces and Objects.
 
 ## 📁 Files
 
