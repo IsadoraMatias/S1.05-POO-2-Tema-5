@@ -6,11 +6,13 @@ This repository contains PHP exercises focused on studying Object-Oriented Progr
 
 - `level1/`
   - `exercise1/`
-    - `classes/Class.php`
-    - `classes/Class.php`
-    - `classes/Class.php`
-    - `interface/Interface.php`
-    - `index.php`
+    - `classes`
+      - `Class.php`
+      - `Class.php`
+      - `Class.php`
+  - `interface`
+    - `Interface.php`
+- `index.php`
   
 ## 📋 Requirements and ▶️ Execution
 
