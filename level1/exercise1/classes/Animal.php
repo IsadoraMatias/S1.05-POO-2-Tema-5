@@ -1,4 +1,5 @@
 <?php
+require_once('interface/Sound.php');
 
 abstract class Animal implements Sound
 {
