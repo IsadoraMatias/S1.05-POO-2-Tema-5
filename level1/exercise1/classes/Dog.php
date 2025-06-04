@@ -8,3 +8,4 @@ class Dog extends Animal
       echo $this->name . " says Bup, bup!" . PHP_EOL;
    }
 }
+?>

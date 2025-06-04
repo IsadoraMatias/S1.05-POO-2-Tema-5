@@ -8,3 +8,4 @@ class Cat extends Animal
         echo $this->name . " says Meu!" . PHP_EOL;
     }
 }
+?>

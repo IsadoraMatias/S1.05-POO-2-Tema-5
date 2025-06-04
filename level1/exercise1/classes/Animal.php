@@ -1,6 +1,5 @@
 <?php
 require_once('interface/Sound.php');
-
 abstract class Animal implements Sound
 {
     protected string $name;
@@ -12,3 +11,4 @@ abstract class Animal implements Sound
 
     abstract public function makeSound();
 }
+?>
