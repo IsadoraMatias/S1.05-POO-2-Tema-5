@@ -7,11 +7,11 @@ This repository contains PHP exercises focused on studying Object-Oriented Progr
 - `level1/`
   - `exercise1/`
     - `classes`
-      - `Class.php`
-      - `Class.php`
-      - `Class.php`
+      - `Animal.php`
+      - `Cat.php`
+      - `Dog.php`
   - `interface`
-    - `Interface.php`
+    - `Sound.php`
 - `index.php`
   
 ## 📋 Requirements and ▶️ Execution
