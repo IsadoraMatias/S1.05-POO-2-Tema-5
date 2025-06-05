@@ -13,6 +13,14 @@ This repository contains PHP exercises focused on studying Object-Oriented Progr
   - `interface`
     - `Sound.php`
 - `index.php`
+  - `exercise2/`
+    - `classes`
+      - `Shape.php`
+      - `Triangle.php`
+      - `Rectangle.php`
+  - `interface`
+    - `Area.php`
+- `index.php` 
   
 ## 📋 Requirements and ▶️ Execution
 
